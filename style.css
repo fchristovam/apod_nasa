@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    color: aliceblue;
+    background-color: rgb(5, 3, 27);
+    text-align: center;
+    background-image: url("./star.jpg");
+}
+header{
+    background-color: black;
+    color: rgba(255, 149, 214, 0.858);
+    padding: 25px;
+    font-size: xx-large;
+}
+.escolha{
+    font-size: x-large;
+    padding: 50px;
+}
+.calendario{
+    color: black;
+    display: inline-block;
+    padding: 30px;
+    font-size: x-large;
+    background-color: rgba(226, 43, 192, 0.219);
+    border-radius: 40px;
+}
+#botao{
+    font-size: xx-large;
+    padding: 20px;
+    margin-top: 70px;
+    border-radius: 30px;
+    background: rgba(0, 0, 0, 0.326);
+    color: rgb(186, 130, 237);
+    border-color: blueviolet;
+    border-style: double;
+}
